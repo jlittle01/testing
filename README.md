@@ -1,4 +1,4 @@
 testing
 =======
 
-This is simply a directory I have setup to learn about Git.
+The only use of this repository is to learn about Git.
